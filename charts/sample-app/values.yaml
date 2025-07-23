@@ -1,5 +1,5 @@
 image:
-  repository: osamaehsaan/patient_app:latest
+  repository: osamaehsaan/patient_app
   tag: "latest"
 
 service:
