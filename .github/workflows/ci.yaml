@@ -22,4 +22,4 @@ jobs:
           context: .                  # root context
           file: docker/Dockerfile     # dockerfile path
           push: true
-          tags: ${{ secrets.DOCKERHUB_USER }}/patient_app:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/patient_app:latest
