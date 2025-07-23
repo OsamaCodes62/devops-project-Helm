@@ -53,6 +53,7 @@ FastAPI response after port-forward
 
 ## Directory Structure
 
+```
 .
 ├── src/ # FastAPI source
 ├── docker/ # Docker setup
@@ -65,6 +66,7 @@ FastAPI response after port-forward
 ├── screenshots/ # Screenshots for README
 └── .github/ # GitHub config
 └── workflows/
+```
 
 ---
 
