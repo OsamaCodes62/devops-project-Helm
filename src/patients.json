@@ -1,0 +1,112 @@
+{
+  "P001": {
+    "id": "P001",
+    "name": "Osama",
+    "city": "Hasilpur",
+    "age": "24",
+    "Gender": "male",
+    "height": "180",
+    "weight": "80",
+    "bmi": "33",
+    "verdict": "overweight"
+  },
+  "P002": {
+    "id": "P002",
+    "name": "Aamna",
+    "city": "Lahore",
+    "age": "30",
+    "Gender": "female",
+    "height": "165",
+    "weight": "70",
+    "bmi": "25.7",
+    "verdict": "overweight"
+  },
+  "P003": {
+    "id": "P003",
+    "name": "Ali",
+    "city": "Karachi",
+    "age": "28",
+    "Gender": "male",
+    "height": "172",
+    "weight": "65",
+    "bmi": "22",
+    "verdict": "normal"
+  },
+  "P004": {
+    "id": "P004",
+    "name": "Sana",
+    "city": "Islamabad",
+    "age": "19",
+    "Gender": "female",
+    "height": "158",
+    "weight": "50",
+    "bmi": "20",
+    "verdict": "normal"
+  },
+  "P005": {
+    "id": "P005",
+    "name": "Hassan",
+    "city": "Multan",
+    "age": "35",
+    "Gender": "male",
+    "height": "175",
+    "weight": "95",
+    "bmi": "31",
+    "verdict": "overweight"
+  },
+  "P006": {
+    "id": "P006",
+    "name": "Fatima",
+    "city": "Quetta",
+    "age": "26",
+    "Gender": "female",
+    "height": "160",
+    "weight": "60",
+    "bmi": "23.4",
+    "verdict": "normal"
+  },
+  "P007": {
+    "id": "P007",
+    "name": "Zain",
+    "city": "Faisalabad",
+    "age": "40",
+    "Gender": "male",
+    "height": "168",
+    "weight": "78",
+    "bmi": "27.7",
+    "verdict": "overweight"
+  },
+  "P008": {
+    "id": "P008",
+    "name": "Sara",
+    "city": "Rawalpindi",
+    "age": "22",
+    "Gender": "female",
+    "height": "155",
+    "weight": "48",
+    "bmi": "19.9",
+    "verdict": "normal"
+  },
+  "P009": {
+    "id": "P009",
+    "name": "Bilal",
+    "city": "Hyderabad",
+    "age": "33",
+    "Gender": "male",
+    "height": "178",
+    "weight": "110",
+    "bmi": "34.7",
+    "verdict": "overweight"
+  },
+  "P010": {
+    "id": "P010",
+    "name": "Maryam",
+    "city": "Peshawar",
+    "age": "27",
+    "Gender": "female",
+    "height": "162",
+    "weight": "58",
+    "bmi": "22.1",
+    "verdict": "normal"
+  }
+}

@@ -1,0 +1,7 @@
+image:
+  repository: osamaehsaan/patient_app:latest
+  tag: "latest"
+
+service:
+  type: ClusterIP
+  port: 8000
