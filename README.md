@@ -38,8 +38,6 @@ Service created in Kubernetes
 FastAPI response after port-forward
 ![FastAPI Response](screenshots/fastapi-response.png)
 
-(Replace these with your actual screenshot file paths in your repo)
-
 ---
 
 ## Tech Stack
@@ -57,14 +55,16 @@ FastAPI response after port-forward
 
 .
 ├── src/ # FastAPI source
-│ ├── app.py
-│ ├── patients.json
-│ └── requirements.txt
-├── docker/ # Dockerfile
-├── charts/sample-app/ # Helm chart (deployment & service)
-├── argocd/ # ArgoCD application manifest
-├── infra/terraform/ # (optional) Terraform files for infra
-└── .github/workflows/ # CI workflow
+├── docker/ # Docker setup
+├── charts/ # Helm charts
+│ └── sample-app/
+│ └── templates/
+├── argocd/ # ArgoCD manifests
+├── infra/ # Infrastructure as code
+│ └── terraform/
+├── screenshots/ # Screenshots for README
+└── .github/ # GitHub config
+└── workflows/
 
 ---
 
