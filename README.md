@@ -73,23 +73,32 @@ FastAPI response after port-forward
 ## How to Run Locally
 
 1. Run directly with FastAPI
+
+```
    cd src
    pip install -r requirements.txt
    uvicorn app:app --reload
    Open: http://localhost:8000
+```
 
 2. Run with Docker
+
+```
    docker build -t osamaehsaan/patient_app:latest -f docker/Dockerfile .
    docker run -p 8000:8000 osamaehsaan/patient_app:latest
    Open: http://localhost:8000
+```
 
 3. Run on Kubernetes with Helm
+
+```
    kubectl get nodes
    helm upgrade --install patient-app charts/sample-app
    kubectl get pods
    kubectl get svc
    kubectl port-forward svc/patient-app-svc 8000:8000
    Open: http://localhost:8000
+```
 
 ---
 
